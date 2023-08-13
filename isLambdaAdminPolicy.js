@@ -54,4 +54,4 @@ const checkLambdaPolicy = async () => {
   }
 };
 
-checkLambdaPolicy();
+await checkLambdaPolicy();
